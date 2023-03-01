@@ -2,3 +2,9 @@ Q1 xyz
 Ans Abc
 Q2 abc
 Ans xyz
+Q3 cbcnm
+Ans kdsllmmmm
+Q4 nmckll
+Ans jfkkfl
+Q5 dllsll
+Ans fkllll
